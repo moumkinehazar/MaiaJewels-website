@@ -1,0 +1,6 @@
+{
+  "name": "Maia Jewels",
+  "description": "Maia Jewels — Modern fine gold and silver jewelry celebrating individuality, confidence, and timeless elegance. Explore macro & worn galleries, interactive sizing guides, and bespoke orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
